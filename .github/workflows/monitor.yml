@@ -9,6 +9,7 @@ jobs:
 run-monitor:
 runs-on: ubuntu-latest
 
+```
 steps:
   - uses: actions/checkout@v4
 
@@ -32,3 +33,6 @@ steps:
       git add data.json || true
       git commit -m "Daily snapshot" || true
       git push
+```
+
+:
