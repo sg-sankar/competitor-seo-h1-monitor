@@ -4,7 +4,7 @@ import json
 import os
 import xml.etree.ElementTree as ET
 
-SITEMAP = "https://www.kanan.co/sitemap-course-pages.xml"
+SITEMAP = "https://www.fita.in/page-sitemap.xml/"
 DATA_FILE = "data.json"
 
 def get_urls():
