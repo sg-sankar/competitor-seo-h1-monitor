@@ -48,8 +48,26 @@ def send_email(changes):
         json={
             "from": "Kanan Monitor <onboarding@resend.dev>",
             "to": [to_email],
-            "subject": "Kanan H1 Changes Detected",
+            "subject": "⚠️ Kanan H1 Changes Detected",
             "html": f"<p>{content}</p>",
+        },
+        timeout=30,
+    )
+
+def send_no_change_email():
+    api_key = os.environ["RESEND_API_KEY"]
+    to_email = os.environ["TO_EMAIL"]
+    requests.post(
+        "https://api.resend.com/emails",
+        headers={
+            "Authorization": f"Bearer {api_key}",
+            "Content-Type": "application/json",
+        },
+        json={
+            "from": "Kanan Monitor <onboarding@resend.dev>",
+            "to": [to_email],
+            "subject": "✅ Kanan H1 Monitor — No Changes Today",
+            "html": "<p>All good! No H1 changes detected today.</p>",
         },
         timeout=30,
     )
@@ -69,6 +87,8 @@ def main():
     save_new(new_data)
     if changes:
         send_email(changes)
+    else:
+        send_no_change_email()
 
 if __name__ == "__main__":
     main()
