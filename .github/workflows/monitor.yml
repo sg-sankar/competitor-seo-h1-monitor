@@ -8,6 +8,8 @@ on:
 jobs:
   run-monitor:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -27,3 +29,4 @@ jobs:
           git add data.json || true
           git commit -m "Daily snapshot" || true
           git push
+
