@@ -2,8 +2,8 @@ name: Kanan H1 Monitor
 
 on:
 schedule:
-- cron: "30 2 * * *"   # runs daily
-workflow_dispatch:       # allows manual run (test button)
+- cron: "30 2 * * *"
+workflow_dispatch:
 
 jobs:
 run-monitor:
@@ -11,29 +11,30 @@ runs-on: ubuntu-latest
 
 ```
 steps:
-- name: Checkout repo
-  uses: actions/checkout@v4
+  - name: Checkout repo
+    uses: actions/checkout@v4
 
-- name: Setup Python
-  uses: actions/setup-python@v5
-  with:
-    python-version: "3.11"
+  - name: Setup Python
+    uses: actions/setup-python@v5
+    with:
+      python-version: "3.11"
 
-- name: Install libraries
-  run: pip install -r requirements.txt
+  - name: Install libraries
+    run: |
+      pip install -r requirements.txt
 
-- name: Run script
-  env:
-    EMAIL: ${{ secrets.EMAIL }}
-    EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
-    TO_EMAIL: ${{ secrets.TO_EMAIL }}
-  run: python monitor.py
+  - name: Run script
+    env:
+      RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+      TO_EMAIL: ${{ secrets.TO_EMAIL }}
+    run: |
+      python monitor.py
 
-- name: Commit updated data
-  run: |
-    git config user.name "github-actions"
-    git config user.email "actions@github.com"
-    git add data.json
-    git commit -m "Daily H1 snapshot" || echo "No changes to commit"
-    git push
+  - name: Commit updated data
+    run: |
+      git config user.name "github-actions"
+      git config user.email "actions@github.com"
+      git add data.json
+      git commit -m "Daily H1 snapshot" || echo "No changes to commit"
+      git push
 ```
