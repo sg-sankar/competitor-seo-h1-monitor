@@ -630,9 +630,9 @@
   "https://www.fita.in/angularjs-training-in-delhi/": "AngularJS Training in Delhi",
   "https://www.fita.in/angularjs-training-in-gurgaon/": "AngularJS Training in Gurgaon",
   "https://www.fita.in/angularjs-training-in-hyderabad/": "AngularJS Training in Hyderabad",
-  "https://www.fita.in/angularjs-training-in-kolkata/": "ERROR",
-  "https://www.fita.in/angularjs-training-in-mumbai/": "ERROR",
-  "https://www.fita.in/angularjs-training-in-pondicherry/": "ERROR",
+  "https://www.fita.in/angularjs-training-in-kolkata/": "AngularJS Training in Kolkata",
+  "https://www.fita.in/angularjs-training-in-mumbai/": "AngularJS Training in Mumbai",
+  "https://www.fita.in/angularjs-training-in-pondicherry/": "AngularJS Training in Pondicherry",
   "https://www.fita.in/angularjs-training-in-pune/": "AngularJS Training in Pune",
   "https://www.fita.in/angularjs-training-in-trichy/": "AngularJS Training in Trichy",
   "https://www.fita.in/angularjs-training-in-trivandrum/": "AngularJS Training in Trivandrum",
@@ -979,7 +979,6 @@
   "https://www.fita.in/gst-course-in-trichy/": "GST Course in Trichy",
   "https://www.fita.in/google-cloud-training-in-chennai/": "Google Cloud Training in Chennai",
   "https://www.fita.in/cyber-security-course-in-erode/": "Cyber Security Course in Erode",
-  "https://www.fita.in/salesforce-training-chennai/": "Salesforce Training in Chennai",
   "https://www.fita.in/full-stack-developer-course-in-ahmedabad/": "Full Stack Developer Course in Ahmedabad",
   "https://www.fita.in/full-stack-developer-course-in-anna-nagar/": "Full Stack Developer Course in Anna Nagar",
   "https://www.fita.in/full-stack-developer-course-in-bangalore/": "Full Stack Developer Courses in Bangalore",
@@ -996,5 +995,6 @@
   "https://www.fita.in/full-stack-developer-course-in-kanchipuram/": "Full Stack Developer Course in Kanchipuram",
   "https://www.fita.in/full-stack-developer-course-in-kolkata/": "Full Stack Developer Course in Kolkata",
   "https://www.fita.in/full-stack-developer-course-in-lucknow/": "Full Stack Developer Course in Lucknow",
-  "https://www.fita.in/full-stack-developer-course-in-madurai/": "Full Stack Developer Course in Madurai"
+  "https://www.fita.in/full-stack-developer-course-in-madurai/": "Full Stack Developer Course in Madurai",
+  "https://www.fita.in/full-stack-developer-course-in-marathahalli/": "Full Stack Developer Course in Marathahalli"
 }
