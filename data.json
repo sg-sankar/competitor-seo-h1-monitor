@@ -410,7 +410,6 @@
   "https://www.fita.in/nextjs-course-in-chennai/": "NextJS Course in Chennai",
   "https://www.fita.in/pmp-training-in-chennai/": "PMP Training in Chennai",
   "https://www.fita.in/vfx-courses-in-chennai/": "VFX Courses in Chennai",
-  "https://www.fita.in/video-editing-course-in-chennai/": "Video Editing Course In Chennai",
   "https://www.fita.in/finishing-schools-in-chennai/": "Finishing Schools in Chennai",
   "https://www.fita.in/inplant-training-in-chennai/": "Inplant Training in Chennai",
   "https://www.fita.in/scrum-master-training-in-chennai/": "Scrum Master Certification in Chennai",
@@ -602,7 +601,6 @@
   "https://www.fita.in/cloud-computing-courses-in-bangalore/": "Cloud Computing Courses In Bangalore",
   "https://www.fita.in/cloud-computing-courses-in-madurai/": "Cloud Computing Courses In Madurai",
   "https://www.fita.in/cloud-computing-courses-in-trichy/": "Cloud Computing Courses in Trichy",
-  "https://www.fita.in/cloud-computing-training-in-chennai/": "Cloud Computing Training in Chennai",
   "https://www.fita.in/cloud-computing-training/": "Cloud Computing Online Training",
   "https://www.fita.in/full-stack-course-in-btm-layout/": "Full Stack Course in BTM Layout",
   "https://www.fita.in/software-jobs-in-chennai/": "Software Jobs in Chennai",
@@ -972,7 +970,6 @@
   "https://www.fita.in/power-bi-training-in-chennai/": "Power BI Course in Chennai",
   "https://www.fita.in/contact-us/": "Contact Us",
   "https://www.fita.in/erode/": "FITA AcademyErode",
-  "https://www.fita.in/java-and-j2ee-training-in-chennai/": "Java Training in Chennai",
   "https://www.fita.in/demo-4/": "Python Tutorial",
   "https://www.fita.in/cyber-security-course-in-trichy/": "Cyber Security Course in Trichy",
   "https://www.fita.in/graphic-design-courses-in-trichy/": "Graphic Design Courses in Trichy",
@@ -996,5 +993,8 @@
   "https://www.fita.in/full-stack-developer-course-in-kolkata/": "Full Stack Developer Course in Kolkata",
   "https://www.fita.in/full-stack-developer-course-in-lucknow/": "Full Stack Developer Course in Lucknow",
   "https://www.fita.in/full-stack-developer-course-in-madurai/": "Full Stack Developer Course in Madurai",
-  "https://www.fita.in/full-stack-developer-course-in-marathahalli/": "Full Stack Developer Course in Marathahalli"
+  "https://www.fita.in/full-stack-developer-course-in-marathahalli/": "Full Stack Developer Course in Marathahalli",
+  "https://www.fita.in/full-stack-developer-course-in-mumbai/": "Full Stack Developer Course in Mumbai",
+  "https://www.fita.in/full-stack-developer-course-in-pondicherry/": "Full Stack Developer Course in Pondicherry",
+  "https://www.fita.in/full-stack-developer-course-in-porur/": "Full Stack Developer Course in Porur"
 }
