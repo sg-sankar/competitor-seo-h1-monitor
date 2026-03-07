@@ -78,7 +78,6 @@
   "https://www.fita.in/web-design-and-development-internship/": "Web Design and Development Internship",
   "https://www.fita.in/rpa-training-chennai/": "RPA Training in Chennai",
   "https://www.fita.in/mobile-app-development-courses-in-chennai/": "Mobile App Development Courses in Chennai",
-  "https://www.fita.in/mean-stack-training-in-chennai/": "MEAN Stack Training in Chennai",
   "https://www.fita.in/web-design-training-in-chennai/": "Web Designing Course in Chennai",
   "https://www.fita.in/fita-coimbatore/": "FITA AcademyCoimbatore",
   "https://www.fita.in/fita-tambaram-chennai/": "FITA AcademyTambaram",
@@ -412,11 +411,9 @@
   "https://www.fita.in/inplant-training-in-chennai/": "Inplant Training in Chennai",
   "https://www.fita.in/scrum-master-training-in-chennai/": "Scrum Master Certification in Chennai",
   "https://www.fita.in/perl-training-in-chennai/": "Perl Training in Chennai",
-  "https://www.fita.in/linux-training-in-chennai/": "Linux Training in Chennai",
   "https://www.fita.in/leadership-training-in-chennai/": "Leadership Training in Chennai",
   "https://www.fita.in/matlab-training-in-chennai/": "Matlab Training in Chennai",
   "https://www.fita.in/soft-skills-training-chennai/": "Soft Skills Training In Chennai",
-  "https://www.fita.in/sql-training-in-chennai/": "SQL Training In Chennai",
   "https://www.fita.in/oracle-dba-training-in-chennai/": "Oracle DBA Training in Chennai",
   "https://www.fita.in/microsoft-dynamics-crm-training-in-chennai/": "Microsoft Dynamics CRM Training in Chennai",
   "https://www.fita.in/sharepoint-training-chennai/": "SharePoint Training in Chennai",
@@ -446,7 +443,6 @@
   "https://www.fita.in/sas-training-in-chennai/": "SAS Training in Chennai",
   "https://www.fita.in/plc-training-in-chennai/": "PLC Training In Chennai",
   "https://www.fita.in/drupal-training-chennai/": "Drupal Training in Chennai",
-  "https://www.fita.in/photoshop-classes-in-chennai/": "Photoshop Classes In Chennai",
   "https://www.fita.in/iot-training-in-chennai/": "IoT Course in Chennai",
   "https://www.fita.in/android-training-in-ahmedabad/": "Android Training in Ahmedabad",
   "https://www.fita.in/ai-course-singapore/": "AI Course Singapore",
@@ -996,5 +992,9 @@
   "https://www.fita.in/digital-marketing-course-in-delhi/": "Digital Marketing Course in Delhi",
   "https://www.fita.in/digital-marketing-course-in-erode/": "Digital Marketing Course in Erode",
   "https://www.fita.in/digital-marketing-training-in-gurgaon/": "Digital Marketing Course in Gurgaon",
-  "https://www.fita.in/digital-marketing-course-in-hyderabad/": "Digital Marketing Course in Hyderabad"
+  "https://www.fita.in/digital-marketing-course-in-hyderabad/": "Digital Marketing Course in Hyderabad",
+  "https://www.fita.in/digital-marketing-course-in-jaipur/": "Digital Marketing Course in Jaipur",
+  "https://www.fita.in/digital-marketing-course-in-kanchipuram/": "Digital Marketing Course in Kanchipuram",
+  "https://www.fita.in/digital-marketing-course-in-kolkata/": "Digital Marketing Course in Kolkata",
+  "https://www.fita.in/digital-marketing-course-in-lucknow/": "Digital Marketing Course in Lucknow"
 }
