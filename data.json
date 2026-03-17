@@ -409,7 +409,6 @@
   "https://www.fita.in/pmp-training-in-chennai/": "PMP Training in Chennai",
   "https://www.fita.in/finishing-schools-in-chennai/": "Finishing Schools in Chennai",
   "https://www.fita.in/inplant-training-in-chennai/": "Inplant Training in Chennai",
-  "https://www.fita.in/scrum-master-training-in-chennai/": "Scrum Master Certification in Chennai",
   "https://www.fita.in/perl-training-in-chennai/": "Perl Training in Chennai",
   "https://www.fita.in/leadership-training-in-chennai/": "Leadership Training in Chennai",
   "https://www.fita.in/matlab-training-in-chennai/": "Matlab Training in Chennai",
@@ -944,7 +943,6 @@
   "https://www.fita.in/full-stack-developer-course-in-kanchipuram/": "Full Stack Developer Course in Kanchipuram",
   "https://www.fita.in/full-stack-developer-course-in-kolkata/": "Full Stack Developer Course in Kolkata",
   "https://www.fita.in/full-stack-developer-course-in-lucknow/": "Full Stack Developer Course in Lucknow",
-  "https://www.fita.in/full-stack-developer-course-in-madurai/": "Full Stack Developer Course in Madurai",
   "https://www.fita.in/full-stack-developer-course-in-marathahalli/": "Full Stack Developer Course in Marathahalli",
   "https://www.fita.in/full-stack-developer-course-in-mumbai/": "Full Stack Developer Course in Mumbai",
   "https://www.fita.in/full-stack-developer-course-in-porur/": "Full Stack Developer Course in Porur",
@@ -996,5 +994,7 @@
   "https://www.fita.in/data-science-course-in-anna-nagar/": "Data Science Course in Anna Nagar",
   "https://www.fita.in/data-science-course-in-chandigarh/": "Data Science Course in Chandigarh",
   "https://www.fita.in/data-science-course-in-cochin/": "Data Science Course in Kochi",
-  "https://www.fita.in/data-science-course-in-cuddalore/": "Data Science Course in Cuddalore"
+  "https://www.fita.in/data-science-course-in-cuddalore/": "Data Science Course in Cuddalore",
+  "https://www.fita.in/data-science-course-in-delhi/": "Data Science Course in Delhi",
+  "https://www.fita.in/data-science-course-in-dindigul/": "Data Science Course in Dindigul"
 }
