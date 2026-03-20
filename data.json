@@ -78,7 +78,6 @@
   "https://www.fita.in/web-design-and-development-internship/": "Web Design and Development Internship",
   "https://www.fita.in/rpa-training-chennai/": "RPA Training in Chennai",
   "https://www.fita.in/mobile-app-development-courses-in-chennai/": "Mobile App Development Courses in Chennai",
-  "https://www.fita.in/web-design-training-in-chennai/": "Web Designing Course in Chennai",
   "https://www.fita.in/fita-coimbatore/": "FITA AcademyCoimbatore",
   "https://www.fita.in/fita-tambaram-chennai/": "FITA AcademyTambaram",
   "https://www.fita.in/android-jobs-in-pune/": "Android Jobs In Pune",
@@ -425,7 +424,6 @@
   "https://www.fita.in/spring-training-in-chennai/": "Spring Training In Chennai",
   "https://www.fita.in/hibernate-training-in-chennai/": "Hibernate Training In Chennai",
   "https://www.fita.in/struts-training-in-chennai/": "Struts Training In Chennai",
-  "https://www.fita.in/node-js-training-in-chennai/": "Node JS Training In Chennai",
   "https://www.fita.in/spark-training-in-chennai/": "Spark Training in Chennai",
   "https://www.fita.in/talend-training-in-chennai/": "Talend Training in Chennai",
   "https://www.fita.in/placement-training-in-chennai/": "Placement Training in Chennai",
@@ -542,7 +540,6 @@
   "https://www.fita.in/artificial-intelligence-course-in-jaipur/": "Artificial Intelligence Course in Jaipur",
   "https://www.fita.in/artificial-intelligence-course-in-kanchipuram/": "Artificial Intelligence Course in Kanchipuram",
   "https://www.fita.in/artificial-intelligence-course-in-kolkata/": "Artificial Intelligence Course in Kolkata",
-  "https://www.fita.in/artificial-intelligence-course-in-madurai/": "Artificial Intelligence Course in Madurai",
   "https://www.fita.in/artificial-intelligence-course-in-marathahalli/": "Artificial Intelligence Course in Marathahalli",
   "https://www.fita.in/artificial-intelligence-course-in-mumbai/": "Artificial Intelligence Course in Mumbai",
   "https://www.fita.in/artificial-intelligence-course-in-porur/": "Artificial Intelligence Course in Porur",
@@ -797,7 +794,6 @@
   "https://www.fita.in/ielts-coaching-in-kolkata/": "IELTS Coaching in Kolkata",
   "https://www.fita.in/ielts-coaching-in-madurai/": "IELTS Coaching in Madurai",
   "https://www.fita.in/ielts-coaching-in-marathahalli/": "IELTS Coaching in Marathahalli",
-  "https://www.fita.in/ielts-coaching-in-pondicherry/": "IELTS Coaching in Pondicherry",
   "https://www.fita.in/ielts-coaching-in-porur/": "IELTS Coaching in Porur",
   "https://www.fita.in/ielts-coaching-in-pune/": "IELTS Coaching in Pune",
   "https://www.fita.in/ielts-coaching-in-salem/": "IELTS Coaching in Salem",
@@ -996,5 +992,9 @@
   "https://www.fita.in/data-science-course-in-hyderabad/": "Data Science Course in Hyderabad",
   "https://www.fita.in/data-science-course-in-jaipur/": "Data Science Course in Jaipur",
   "https://www.fita.in/data-science-course-in-kanchipuram/": "Data Science Course in Kanchipuram",
-  "https://www.fita.in/data-science-course-in-kolkata/": "Data Science Course in Kolkata"
+  "https://www.fita.in/data-science-course-in-kolkata/": "Data Science Course in Kolkata",
+  "https://www.fita.in/data-science-course-in-madurai/": "Data Science Course in Madurai",
+  "https://www.fita.in/data-science-course-in-mumbai/": "Data Science Course in Mumbai",
+  "https://www.fita.in/data-science-course-in-porur/": "Data Science Course in Porur",
+  "https://www.fita.in/data-science-course-in-pune/": "Data Science Course in Pune"
 }
