@@ -132,7 +132,6 @@
   "https://www.fita.in/php-training-in-chennai/": "PHP Training in Chennai",
   "https://www.fita.in/tiruppur/": "FITA AcademyTiruppur",
   "https://www.fita.in/big-data-hadoop-training-in-chennai/": "Hadoop Training in Chennai",
-  "https://www.fita.in/blockchain-training-in-chennai/": "Blockchain Course in Chennai",
   "https://www.fita.in/data-engineering-course-in-coimbatore/": "Data Engineering Course in Coimbatore",
   "https://www.fita.in/business-analytics-course-in-chennai/": "Business Analytics Course in Chennai",
   "https://www.fita.in/ccnp-training-in-chennai/": "CCNP Training in Chennai",
@@ -401,7 +400,6 @@
   "https://www.fita.in/ibm-aix-training-in-chennai/": "IBM AIX Training in Chennai",
   "https://www.fita.in/informatica-training-in-chennai/": "Informatica Training in Chennai",
   "https://www.fita.in/french-training-in-chennai/": "French Classes in Chennai",
-  "https://www.fita.in/spanish-classes-in-chennai/": "Spanish Classes in Chennai",
   "https://www.fita.in/informatica-mdm-training-chennai/": "Informatica MDM Training In Chennai",
   "https://www.fita.in/tableau-training-in-chennai/": "Tableau Training In Chennai",
   "https://www.fita.in/r-training-chennai/": "R Programming Training In Chennai",
@@ -968,7 +966,6 @@
   "https://www.fita.in/software-testing-training-in-gurgaon/": "Software Testing Course in Gurgaon",
   "https://www.fita.in/rpa-training-in-gurgaon/": "RPA Training in Gurgaon",
   "https://www.fita.in/tally-course-in-madurai/": "Tally Course in Madurai",
-  "https://www.fita.in/cyber-security-course-in-chennai/": "Cyber Security Course in Chennai",
   "https://www.fita.in/python-training-in-ahmedabad/": "Python Course in Ahmedabad",
   "https://www.fita.in/aws-training-in-ahmedabad/": "AWS Training in Ahmedabad",
   "https://www.fita.in/selenium-training-in-ahmedabad/": "Selenium Training in Ahmedabad",
@@ -996,5 +993,8 @@
   "https://www.fita.in/ccna-course-in-btm-layout/": "CCNA Course in BTM Layout",
   "https://www.fita.in/ccna-training-in-chennai/": "CCNA Course in Chennai",
   "https://www.fita.in/ccna-course-in-coimbatore/": "CCNA Course in Coimbatore",
-  "https://www.fita.in/ccna-course-in-dindigul/": "CCNA Course in Dindigul"
+  "https://www.fita.in/ccna-course-in-dindigul/": "CCNA Course in Dindigul",
+  "https://www.fita.in/ccna-course-in-gurgaon/": "CCNA Course in Gurgaon",
+  "https://www.fita.in/ccna-course-in-hyderabad/": "CCNA Course in Hyderabad",
+  "https://www.fita.in/ccna-course-in-kanchipuram/": "CCNA Course in Kanchipuram"
 }
