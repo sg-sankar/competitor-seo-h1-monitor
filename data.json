@@ -118,7 +118,6 @@
   "https://www.fita.in/fita-anna-nagar-chennai/": "FITA AcademyAnna Nagar",
   "https://www.fita.in/fita-velachery-chennai/": "FITA AcademyVelachery",
   "https://www.fita.in/fita-porur-chennai/": "FITA AcademyPorur",
-  "https://www.fita.in/fita-omr-chennai/": "FITA AcademyOMR",
   "https://www.fita.in/fita-pallikaranai-chennai/": "FITA AcademyPallikaranai",
   "https://www.fita.in/graphic-design-internship/": "Graphic Design Internship",
   "https://www.fita.in/full-stack-graduate-bridge-program/": "AI Full Stack Development GraduateBridge Program",
@@ -877,7 +876,6 @@
   "https://www.fita.in/selenium-training/": "Selenium Online Training",
   "https://www.fita.in/selenium-training-in-anna-nagar/": "Selenium Training in Anna Nagar",
   "https://www.fita.in/selenium-training-in-btm-layout/": "Selenium Training in BTM Layout",
-  "https://www.fita.in/selenium-training-in-chennai/": "Selenium Training in Chennai",
   "https://www.fita.in/selenium-training-in-coimbatore/": "Selenium Training in Coimbatore",
   "https://www.fita.in/selenium-training-in-dindigul/": "Selenium Training in Dindigul",
   "https://www.fita.in/selenium-training-in-dubai/": "Selenium Training in Dubai",
@@ -919,7 +917,6 @@
   "https://www.fita.in/software-testing-courses-in-erode/": "Software Testing Courses in Erode",
   "https://www.fita.in/software-testing-training/": "Software Testing Online Course",
   "https://www.fita.in/software-testing-training-in-anna-nagar/": "Software Testing Training in Anna Nagar",
-  "https://www.fita.in/software-testing-training-in-chennai/": "Software Testing Course in Chennai",
   "https://www.fita.in/software-testing-training-in-tambaram/": "Software Testing Course in Tambaram",
   "https://www.fita.in/software-testing-training-in-velachery/": "Software Testing Training in Velachery",
   "https://www.fita.in/ui-ux-designer-course-in-madurai/": "UI UX Designer Course in Madurai",
@@ -996,5 +993,8 @@
   "https://www.fita.in/ccna-course-in-dindigul/": "CCNA Course in Dindigul",
   "https://www.fita.in/ccna-course-in-gurgaon/": "CCNA Course in Gurgaon",
   "https://www.fita.in/ccna-course-in-hyderabad/": "CCNA Course in Hyderabad",
-  "https://www.fita.in/ccna-course-in-kanchipuram/": "CCNA Course in Kanchipuram"
+  "https://www.fita.in/ccna-course-in-kanchipuram/": "CCNA Course in Kanchipuram",
+  "https://www.fita.in/ccna-course-in-madurai/": "CCNA Course in Madurai",
+  "https://www.fita.in/ccna-course-in-marathahalli/": "CCNA Course in Marathahalli",
+  "https://www.fita.in/ccna-course-in-mumbai/": "CCNA Course in Mumbai"
 }
