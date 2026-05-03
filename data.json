@@ -298,7 +298,6 @@
   "https://www.fita.in/etl-testing-training/": "ETL Testing Online Training",
   "https://www.fita.in/flask-course/": "Flask Online Course",
   "https://www.fita.in/git-and-github-course/": "Git and GitHub Online Course",
-  "https://www.fita.in/google-ads-ppc-certification-training/": "Google Ads Online Course",
   "https://www.fita.in/google-analytics-training/": "Google Analytics Online Course",
   "https://www.fita.in/google-cloud-training/": "Google Cloud Online Training",
   "https://www.fita.in/google-flutter-and-dart-training/": "Google Flutter Online Course",
@@ -426,7 +425,6 @@
   "https://www.fita.in/content-writing-course-in-chennai/": "Content Writing Course in Chennai",
   "https://www.fita.in/ios-developer-training-institutes-in-chennai/": "iOS Training in Chennai",
   "https://www.fita.in/flask-training-in-chennai/": "Flask Training in Chennai",
-  "https://www.fita.in/google-ads-ppc-training-in-chennai/": "Google Ads - PPC Training in Chennai",
   "https://www.fita.in/reactjs-jobs-in-bangalore/": "ReactJS Jobs in Bangalore",
   "https://www.fita.in/singanallur-coimbatore/": "FITA AcademySinganallur",
   "https://www.fita.in/web-developer-jobs-in-chennai/": "Web Developer Jobs in Chennai",
@@ -996,5 +994,7 @@
   "https://www.fita.in/ccna-course-in-madurai/": "CCNA Course in Madurai",
   "https://www.fita.in/ccna-course-in-marathahalli/": "CCNA Course in Marathahalli",
   "https://www.fita.in/ccna-course-in-mumbai/": "CCNA Course in Mumbai",
-  "https://www.fita.in/ccna-training-in-pondicherry/": "CCNA Course in Pondicherry"
+  "https://www.fita.in/ccna-training-in-pondicherry/": "CCNA Course in Pondicherry",
+  "https://www.fita.in/ccna-course-in-porur/": "CCNA Course In Porur",
+  "https://www.fita.in/ccna-course-in-pune/": "CCNA Course in Pune"
 }
