@@ -292,7 +292,6 @@
   "https://www.fita.in/jenkins-training/": "Jenkins Online Training",
   "https://www.fita.in/jira-training/": "Jira Training Online",
   "https://www.fita.in/jmeter-training/": "JMeter Online Training",
-  "https://www.fita.in/kotlin-android-developer-course/": "Kotlin Online Course",
   "https://www.fita.in/kubernetes-training/": "Kubernetes Online Training",
   "https://www.fita.in/leadership-training/": "Leadership Courses Online",
   "https://www.fita.in/linux-course/": "Linux Online Courses",
@@ -321,10 +320,8 @@
   "https://www.fita.in/puppet-training/": "Puppet Online Training",
   "https://www.fita.in/pytest-training/": "Pytest Online Training",
   "https://www.fita.in/qlik-sense-training/": "Qlik Sense Online Training",
-  "https://www.fita.in/qtp-training/": "QTP Online Training",
   "https://www.fita.in/r-programming-course/": "R Programming Online Course",
   "https://www.fita.in/ranorex-test-automation-training/": "Ranorex Test Automation Online Training",
-  "https://www.fita.in/react-native-training/": "React Native Online Training",
   "https://www.fita.in/rest-api-testing-training/": "REST API Testing Online Training",
   "https://www.fita.in/robot-framework-test-automation-training/": "Robot Framework Test Automation Online Training",
   "https://www.fita.in/sales-training/": "Sales Online Course",
@@ -336,7 +333,6 @@
   "https://www.fita.in/unix-course/": "Unix Courses Online",
   "https://www.fita.in/vmware-training/": "VMware Online Training",
   "https://www.fita.in/web-development-course/": "Web Development Online Course",
-  "https://www.fita.in/webservices-with-soapui-testing-training/": "WebServices with SoapUI Testing Online Training",
   "https://www.fita.in/software-training-institute-in-chennai/": "Software Training Institute in Chennai",
   "https://www.fita.in/pmp-training-in-cochin/": "PMP Certification in Kochi",
   "https://www.fita.in/workday-training-in-chennai/": "Workday Training in Chennai",
@@ -996,5 +992,9 @@
   "https://www.fita.in/salesforce-training-in-pune/": "Salesforce Classes in Pune",
   "https://www.fita.in/salesforce-course-dindigul/": "Salesforce Course Dindigul",
   "https://www.fita.in/salesforce-training-in-coimbatore/": "Salesforce Course in Coimbatore",
-  "https://www.fita.in/salesforce-training-in-bangalore/": "Salesforce Training in Bangalore"
+  "https://www.fita.in/salesforce-training-in-bangalore/": "Salesforce Training in Bangalore",
+  "https://www.fita.in/salesforce-training-in-erode/": "Salesforce Training in Erode",
+  "https://www.fita.in/salesforce-training-in-hyderabad/": "Salesforce Training in Hyderabad",
+  "https://www.fita.in/salesforce-training-in-kanchipuram/": "Salesforce Training in Kanchipuram",
+  "https://www.fita.in/salesforce-training-in-madurai/": "Salesforce Training in Madurai"
 }
