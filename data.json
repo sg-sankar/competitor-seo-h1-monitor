@@ -609,7 +609,6 @@
   "https://www.fita.in/software-developer-jobs-in-bangalore/": "Software Developer Jobs in Bangalore",
   "https://www.fita.in/python-jobs-in-chennai/": "Python Jobs In Chennai",
   "https://www.fita.in/networking-course-in-chennai/": "Networking Course in Chennai",
-  "https://www.fita.in/hr-courses-in-chennai/": "HR Course in Chennai",
   "https://www.fita.in/data-science-course-in-trichy/": "Data Science Course in Trichy",
   "https://www.fita.in/generative-ai-course-in-viluppuram/": "Generative AI Course in Villupuram",
   "https://www.fita.in/gen-ai-course-in-bangalore/": "Gen AI Course in Bangalore",
@@ -643,7 +642,6 @@
   "https://www.fita.in/mern-stack-course-in-chennai/": "MERN Stack Course in Chennai",
   "https://www.fita.in/digital-marketing-course-in-coimbatore/": "Digital Marketing Course in Coimbatore",
   "https://www.fita.in/clinical-sas-training-in-chennai/": "Clinical SAS Training In Chennai",
-  "https://www.fita.in/vmware-training-in-chennai/": "VMware Training in Chennai",
   "https://www.fita.in/mean-stack-training-in-chennai/": "MEAN Stack Training in Chennai",
   "https://www.fita.in/sql-training-in-chennai/": "SQL Training In Chennai",
   "https://www.fita.in/linux-training-in-chennai/": "Linux Training in Chennai",
@@ -996,5 +994,7 @@
   "https://www.fita.in/dot-net-training-in-cochin/": "Dot Net Training in Kochi",
   "https://www.fita.in/data-science-course-in-cochin/": "Data Science Course in Kochi",
   "https://www.fita.in/software-testing-course-in-cochin/": "Software Testing Course in Kochi",
-  "https://www.fita.in/rpa-course-in-cochin/": "RPA Course in Kochi"
+  "https://www.fita.in/rpa-course-in-cochin/": "RPA Course in Kochi",
+  "https://www.fita.in/java-training-in-trivandrum/": "Java Training in Trivandrum",
+  "https://www.fita.in/python-training-in-trivandrum/": "Python Training in Trivandrum"
 }
