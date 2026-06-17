@@ -306,7 +306,7 @@
   "https://www.fita.in/blue-prism-training-in-chennai/": "Blue Prism Training in Chennai",
   "https://www.fita.in/automation-anywhere-training-in-chennai/": "Automation Anywhere Training in Chennai",
   "https://www.fita.in/salesforce-testing-training-in-chennai/": "Salesforce Testing Training in Chennai",
-  "https://www.fita.in/hadoop-administration-training-in-chennai/": "Hadoop Admin Training in Chennai",
+  "https://www.fita.in/hadoop-administration-training-in-chennai/": "ERROR",
   "https://www.fita.in/openspan-training-in-chennai/": "OpenSpan Training in Chennai",
   "https://www.fita.in/uipath-training-in-chennai/": "UiPath Training in Chennai",
   "https://www.fita.in/openstack-training-in-chennai/": "OpenStack Training in Chennai",
@@ -616,8 +616,6 @@
   "https://www.fita.in/clinical-sas-training-in-chennai/": "Clinical SAS Training In Chennai",
   "https://www.fita.in/mean-stack-training-in-chennai/": "MEAN Stack Training in Chennai",
   "https://www.fita.in/sql-training-in-chennai/": "SQL Training In Chennai",
-  "https://www.fita.in/linux-training-in-chennai/": "Linux Training in Chennai",
-  "https://www.fita.in/photoshop-classes-in-chennai/": "Photoshop Classes In Chennai",
   "https://www.fita.in/full-stack-developer-course-in-erode/": "Full Stack Developer Course in Erode",
   "https://www.fita.in/artificial-intelligence-course-in-erode/": "Artificial Intelligence Course in Erode",
   "https://www.fita.in/artificial-intelligence-course-in-trichy/": "Artificial Intelligence Course in Trichy",
@@ -996,5 +994,7 @@
   "https://www.fita.in/data-science-course-in-chandigarh/": "Data Science Course in Chandigarh",
   "https://www.fita.in/software-testing-training-in-chandigarh/": "Software Testing Course in Chandigarh",
   "https://www.fita.in/ai-courses-in-chandigarh/": "AI Courses in Chandigarh",
-  "https://www.fita.in/data-analytics-course-in-chandigarh/": "Data Analytics course in Chandigarh"
+  "https://www.fita.in/data-analytics-course-in-chandigarh/": "Data Analytics course in Chandigarh",
+  "https://www.fita.in/salesforce-training-in-chandigarh/": "Salesforce Training in Chandigarh",
+  "https://www.fita.in/contact-us/": "Contact Us"
 }
