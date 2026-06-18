@@ -306,7 +306,7 @@
   "https://www.fita.in/blue-prism-training-in-chennai/": "Blue Prism Training in Chennai",
   "https://www.fita.in/automation-anywhere-training-in-chennai/": "Automation Anywhere Training in Chennai",
   "https://www.fita.in/salesforce-testing-training-in-chennai/": "Salesforce Testing Training in Chennai",
-  "https://www.fita.in/hadoop-administration-training-in-chennai/": "ERROR",
+  "https://www.fita.in/hadoop-administration-training-in-chennai/": "Hadoop Admin Training in Chennai",
   "https://www.fita.in/openspan-training-in-chennai/": "OpenSpan Training in Chennai",
   "https://www.fita.in/uipath-training-in-chennai/": "UiPath Training in Chennai",
   "https://www.fita.in/openstack-training-in-chennai/": "OpenStack Training in Chennai",
@@ -613,9 +613,6 @@
   "https://www.fita.in/generative-ai-training-in-hyderabad/": "Generative AI Training in Hyderabad",
   "https://www.fita.in/full-stack-developer-course-in-coimbatore/": "Full Stack Developer Course in Coimbatore",
   "https://www.fita.in/digital-marketing-course-in-coimbatore/": "Digital Marketing Course in Coimbatore",
-  "https://www.fita.in/clinical-sas-training-in-chennai/": "Clinical SAS Training In Chennai",
-  "https://www.fita.in/mean-stack-training-in-chennai/": "MEAN Stack Training in Chennai",
-  "https://www.fita.in/sql-training-in-chennai/": "SQL Training In Chennai",
   "https://www.fita.in/full-stack-developer-course-in-erode/": "Full Stack Developer Course in Erode",
   "https://www.fita.in/artificial-intelligence-course-in-erode/": "Artificial Intelligence Course in Erode",
   "https://www.fita.in/artificial-intelligence-course-in-trichy/": "Artificial Intelligence Course in Trichy",
@@ -996,5 +993,8 @@
   "https://www.fita.in/ai-courses-in-chandigarh/": "AI Courses in Chandigarh",
   "https://www.fita.in/data-analytics-course-in-chandigarh/": "Data Analytics course in Chandigarh",
   "https://www.fita.in/salesforce-training-in-chandigarh/": "Salesforce Training in Chandigarh",
-  "https://www.fita.in/contact-us/": "Contact Us"
+  "https://www.fita.in/contact-us/": "Contact Us",
+  "https://www.fita.in/fita-omr-chennai/": "FITA AcademyOMR",
+  "https://www.fita.in/google-ads-ppc-training-in-chennai/": "Google Ads - PPC Training in Chennai",
+  "https://www.fita.in/mobile-app-development-courses-in-chennai/": "Mobile App Development Courses in Chennai"
 }
