@@ -542,7 +542,6 @@
   "https://www.fita.in/aws-training-in-erode/": "AWS Training in Erode",
   "https://www.fita.in/aws-training-in-kanchipuram/": "AWS Training in Kanchipuram",
   "https://www.fita.in/aws-training-in-porur/": "AWS Training in Porur",
-  "https://www.fita.in/aws-training-in-salem/": "AWS Training in Salem",
   "https://www.fita.in/aws-training-in-tambaram/": "AWS Training in Tambaram",
   "https://www.fita.in/aws-training-in-thoothukudi/": "AWS Training in Thoothukudi",
   "https://www.fita.in/aws-training-in-tirunelveli/": "AWS Training in Tirunelveli",
@@ -554,7 +553,6 @@
   "https://www.fita.in/python-course-in-erode/": "Python Course in Erode",
   "https://www.fita.in/python-training-in-pondicherry/": "Python Course in Pondicherry",
   "https://www.fita.in/python-course-in-porur/": "Python Course in Porur",
-  "https://www.fita.in/python-training-in-salem/": "Python Course in Salem",
   "https://www.fita.in/python-course-in-thoothukudi/": "Python Course in Thoothukudi",
   "https://www.fita.in/python-course-in-tirunelveli/": "Python Course in Tirunelveli",
   "https://www.fita.in/python-course-in-vellore/": "Python Course in Vellore",
@@ -857,7 +855,6 @@
   "https://www.fita.in/playwright-training-in-dubai/": "Playwright Training in Dubai",
   "https://www.fita.in/playwright-training-in-bangalore/": "Playwright Training in Bangalore",
   "https://www.fita.in/playwright-training-in-chandigarh/": "Playwright Training in Chandigarh",
-  "https://www.fita.in/playwright-training-in-chennai/": "AI-Driven Playwright Training in Chennai",
   "https://www.fita.in/playwright-training-in-coimbatore/": "Playwright Training in Coimbatore",
   "https://www.fita.in/playwright-training-in-ahmedabad/": "Playwright Training in Ahmedabad",
   "https://www.fita.in/playwright-training-in-delhi/": "Playwright Training in Delhi",
@@ -882,7 +879,6 @@
   "https://www.fita.in/playwright-training-in-trivandrum/": "Playwright Training in Trivandrum",
   "https://www.fita.in/playwright-training-in-vellore/": "Playwright Training in Vellore",
   "https://www.fita.in/playwright-training-in-viluppuram/": "Playwright Training in Villupuram",
-  "https://www.fita.in/devops-training-in-chennai/": "DevOps Training in Chennai",
   "https://www.fita.in/spanish-classes-in-chennai/": "Spanish Classes in Chennai",
   "https://www.fita.in/oet-coaching-centre-in-chennai/": "OET Coaching Centre in Chennai",
   "https://www.fita.in/java-training-in-singapore/": "Java Training in Singapore",
@@ -996,5 +992,9 @@
   "https://www.fita.in/pytest-training/": "Pytest Online Training",
   "https://www.fita.in/protractor-testing-training/": "Protractor Training Online",
   "https://www.fita.in/bdd-with-cucumber-training/": "BDD with Cucumber Online Training",
-  "https://www.fita.in/robot-framework-test-automation-training/": "Robot Framework Test Automation Online Training"
+  "https://www.fita.in/robot-framework-test-automation-training/": "Robot Framework Test Automation Online Training",
+  "https://www.fita.in/rest-api-testing-training/": "REST API Testing Online Training",
+  "https://www.fita.in/content-writing-training/": "Content Writing Training Online",
+  "https://www.fita.in/google-analytics-training/": "Google Analytics Online Course",
+  "https://www.fita.in/social-media-marketing-training/": "Social Media Marketing Online Course"
 }
