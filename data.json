@@ -98,7 +98,7 @@
   "https://www.fita.in/php-developer-jobs-in-gurgaon/": "PHP Developer Jobs in Gurgaon",
   "https://www.fita.in/python-jobs-in-kolkata/": "Python Jobs in Kolkata",
   "https://www.fita.in/reactjs-jobs-in-mumbai/": "React Developer Jobs in Mumbai",
-  "https://www.fita.in/react-native-jobs-in-pune/": "React Native Jobs in Pune",
+  "https://www.fita.in/react-native-jobs-in-pune/": "Service Unavailable",
   "https://www.fita.in/rpa-jobs-in-chennai/": "RPA Jobs in Chennai",
   "https://www.fita.in/software-jobs-in-cochin/": "Software Jobs in Cochin",
   "https://www.fita.in/fita-anna-nagar-chennai/": "FITA AcademyAnna Nagar",
@@ -408,7 +408,6 @@
   "https://www.fita.in/scrum-master-training-in-chennai/": "Scrum Master Certification in Chennai",
   "https://www.fita.in/primavera-training-in-chennai/": "Primavera Training in Chennai",
   "https://www.fita.in/c-c-training-in-chennai/": "C / C++ Training In Chennai",
-  "https://www.fita.in/web-development-course-in-chennai/": "Web Development Course in Chennai",
   "https://www.fita.in/rpa-training-chennai/": "RPA Training in Chennai",
   "https://www.fita.in/google-cloud-training-in-chennai/": "Google Cloud Training in Chennai",
   "https://www.fita.in/google-flutter-training-in-chennai/": "Google Flutter Training in Chennai",
@@ -996,5 +995,6 @@
   "https://www.fita.in/gst-course-in-trichy/": "GST Course in Trichy",
   "https://www.fita.in/gst-training-in-bangalore/": "GST Training in Bangalore",
   "https://www.fita.in/gst-course-in-vellore/": "GST Course in Vellore",
-  "https://www.fita.in/gst-training-in-btm-layout/": "GST Training in BTM Layout"
+  "https://www.fita.in/gst-training-in-btm-layout/": "GST Training in BTM Layout",
+  "https://www.fita.in/gst-training-in-dindigul/": "GST Training in Dindigul"
 }
