@@ -535,7 +535,6 @@
   "https://www.fita.in/clinical-sas-training-in-chennai/": "Clinical SAS Training In Chennai",
   "https://www.fita.in/sql-training-in-chennai/": "SQL Training In Chennai",
   "https://www.fita.in/mean-stack-training-in-chennai/": "MEAN Stack Training in Chennai",
-  "https://www.fita.in/etl-testing-training-in-chennai/": "ETL Testing Training in Chennai",
   "https://www.fita.in/etl-testing-course-in-bangalore/": "ETL Testing Course in Bangalore",
   "https://www.fita.in/etl-testing-training/": "ETL Testing Online Training",
   "https://www.fita.in/artificial-intelligence-course-in-dubai/": "AI Courses in Dubai",
@@ -558,8 +557,8 @@
   "https://www.fita.in/gst-course-in-coimbatore/": "GST Course in Coimbatore",
   "https://www.fita.in/gst-course-in-madurai/": "GST Course in Madurai",
   "https://www.fita.in/gst-course-in-trichy/": "GST Course in Trichy",
-  "https://www.fita.in/gst-training-in-bangalore/": "GST Training in Bangalore",
   "https://www.fita.in/gst-course-in-vellore/": "GST Course in Vellore",
+  "https://www.fita.in/gst-training-in-bangalore/": "GST Training in Bangalore",
   "https://www.fita.in/gst-training-in-btm-layout/": "GST Training in BTM Layout",
   "https://www.fita.in/gst-training-in-dindigul/": "GST Training in Dindigul",
   "https://www.fita.in/gst-training-in-erode/": "GST Training in Erode",
@@ -575,7 +574,6 @@
   "https://www.fita.in/cloud-computing-courses-in-madurai/": "Cloud Computing Courses In Madurai",
   "https://www.fita.in/cloud-computing-courses-in-trichy/": "Cloud Computing Courses in Trichy",
   "https://www.fita.in/cloud-computing-training/": "Cloud Computing Online Training",
-  "https://www.fita.in/gst-training-in-chennai/": "GST Course in Chennai",
   "https://www.fita.in/react-js-training-in-salem/": "React JS Training in Salem",
   "https://www.fita.in/react-js-course-in-coimbatore/": "React JS Course in Coimbatore",
   "https://www.fita.in/react-js-course-in-madurai/": "React JS Course in Madurai",
@@ -996,5 +994,7 @@
   "https://www.fita.in/cyber-security-course-in-jaipur/": "Cyber Security Course in Jaipur",
   "https://www.fita.in/cyber-security-course-in-kanchipuram/": "Cyber Security Course in Kanchipuram",
   "https://www.fita.in/cyber-security-course-in-kolkata/": "Cyber Security Course in Kolkata",
-  "https://www.fita.in/cyber-security-course-in-lucknow/": "Cyber Security Course in Lucknow"
+  "https://www.fita.in/cyber-security-course-in-lucknow/": "Cyber Security Course in Lucknow",
+  "https://www.fita.in/cyber-security-course-in-madurai/": "Cyber Security Course in Madurai",
+  "https://www.fita.in/cyber-security-course-in-marathahalli/": "Cyber Security Course in Marathahalli"
 }
