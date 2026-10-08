@@ -524,7 +524,6 @@
   "https://www.fita.in/etl-testing-course-in-bangalore/": "ETL Testing Course in Bangalore",
   "https://www.fita.in/etl-testing-training/": "ETL Testing Online Training",
   "https://www.fita.in/artificial-intelligence-course-in-dubai/": "AI Courses in Dubai",
-  "https://www.fita.in/fita-madurai/": "FITA AcademyMadurai",
   "https://www.fita.in/excel-course-in-kanchipuram/": "Excel Course in Kanchipuram",
   "https://www.fita.in/selenium-with-python-training-in-chennai/": "Selenium with Python Training in Chennai",
   "https://www.fita.in/appium-training-in-chennai/": "Appium Training in Chennai",
@@ -617,10 +616,8 @@
   "https://www.fita.in/digital-marketing-course-in-mumbai/": "Digital Marketing Course in Mumbai",
   "https://www.fita.in/digital-marketing-training-in-pondicherry/": "Digital Marketing Course in Pondicherry",
   "https://www.fita.in/digital-marketing-course-in-porur/": "Digital Marketing Course in Porur",
-  "https://www.fita.in/digital-marketing-training-in-salem/": "Digital Marketing Course in Salem",
   "https://www.fita.in/digital-marketing-course-in-thoothukudi/": "Digital Marketing Course in Thoothukudi",
   "https://www.fita.in/digital-marketing-course-in-tirunelveli/": "Digital Marketing Course in Tirunelveli",
-  "https://www.fita.in/digital-marketing-training-in-trichy/": "Digital Marketing Course in Trichy",
   "https://www.fita.in/digital-marketing-course-in-trivandrum/": "Digital Marketing Course in Trivandrum",
   "https://www.fita.in/digital-marketing-courses-in-btm-layout/": "Digital Marketing Courses in BTM Layout",
   "https://www.fita.in/digital-marketing-courses-in-dindigul/": "Digital Marketing Courses in Dindigul",
@@ -996,5 +993,8 @@
   "https://www.fita.in/salesforce-training-in-delhi/": "Salesforce Training in Delhi",
   "https://www.fita.in/salesforce-training-in-dubai/": "Salesforce Training in Dubai",
   "https://www.fita.in/salesforce-training-in-hyderabad/": "Salesforce Training in Hyderabad",
-  "https://www.fita.in/salesforce-training-in-jaipur/": "Salesforce Training in Jaipur"
+  "https://www.fita.in/salesforce-training-in-jaipur/": "Salesforce Training in Jaipur",
+  "https://www.fita.in/salesforce-training-in-kanchipuram/": "Salesforce Training in Kanchipuram",
+  "https://www.fita.in/salesforce-training-in-lucknow/": "Salesforce Training in Lucknow",
+  "https://www.fita.in/salesforce-training-in-madurai/": "Salesforce Training in Madurai"
 }
