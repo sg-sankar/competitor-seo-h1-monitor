@@ -52,7 +52,7 @@
   "https://www.fita.in/resources/": "Resources",
   "https://www.fita.in/unix-training-in-chennai/": "Unix Training in Chennai",
   "https://www.fita.in/placed-students/": "StudentsPlacedThroughFITA Academy",
-  "https://www.fita.in/courses/": "ERROR",
+  "https://www.fita.in/courses/": "Courses",
   "https://www.fita.in/oracle-training-in-madurai/": "Oracle Training in Madurai",
   "https://www.fita.in/php-course-in-madurai/": "PHP Course in Madurai",
   "https://www.fita.in/seo-training-in-madurai/": "SEO Training in Madurai",
@@ -144,8 +144,8 @@
   "https://www.fita.in/pmp-training-in-kolkata/": "PMP Certification in Kolkata",
   "https://www.fita.in/swift-developer-course-in-kolkata/": "Swift Developer Course in Kolkata",
   "https://www.fita.in/dot-net-training-in-chennai/": "Dot Net Training in Chennai",
-  "https://www.fita.in/machine-learning-course-in-chennai/": "ERROR",
-  "https://www.fita.in/pmp-training-in-jaipur/": "ERROR",
+  "https://www.fita.in/machine-learning-course-in-chennai/": "Machine Learning Course in Chennai",
+  "https://www.fita.in/pmp-training-in-jaipur/": "PMP Certification in Jaipur",
   "https://www.fita.in/php-training-in-mumbai/": "PHP Training in Mumbai",
   "https://www.fita.in/pmp-training-in-mumbai/": "PMP Course in Mumbai",
   "https://www.fita.in/swift-developer-course-in-mumbai/": "Swift Developer Course in Mumbai",
@@ -253,7 +253,6 @@
   "https://www.fita.in/placement-training/": "Online Placement Training",
   "https://www.fita.in/software-training-institute-in-chennai/": "Software Training Institute in Chennai",
   "https://www.fita.in/pmp-training-in-cochin/": "PMP Certification in Kochi",
-  "https://www.fita.in/workday-training-in-chennai/": "Workday Training in Chennai",
   "https://www.fita.in/pmp-training-in-chennai/": "PMP Training in Chennai",
   "https://www.fita.in/finishing-schools-in-chennai/": "Finishing Schools in Chennai",
   "https://www.fita.in/inplant-training-in-chennai/": "Inplant Training in Chennai",
@@ -997,5 +996,6 @@
   "https://www.fita.in/power-bi-training-in-btm-layout/": "Power BI Training in BTM Layout",
   "https://www.fita.in/power-bi-training-in-dubai/": "Power BI Training in Dubai",
   "https://www.fita.in/power-bi-training-in-marathahalli/": "Power BI Training in Marathahalli",
-  "https://www.fita.in/digital-marketing-course-in-delhi/": "Digital Marketing Course in Delhi"
+  "https://www.fita.in/digital-marketing-course-in-delhi/": "Digital Marketing Course in Delhi",
+  "https://www.fita.in/contact-us/": "Contact Us"
 }
